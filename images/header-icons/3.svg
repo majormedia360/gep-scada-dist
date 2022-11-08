@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill='#74AF4D' xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="24" viewBox="0 0 30 24">
+  <style>
+      #Vector {
+        fill: #74AF4D;
+        color: #74AF4D;
+        background: #74AF4D
+        fill-rule: evenodd;
+      }
+    </style>
+  <image id="Vector" fill='#74AF4D' width="30" height="24" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAYCAYAAADtaU2/AAACYElEQVRIibWWS0hVQRjHf/cWPSQoyiA3RbWIoKULJUSl4C6CKHphtYmohRvbaEELIZQ2QRgVFNUiHz2pKMSdUJDVsvcDlbBNUfQivZZS8cF/aO7Bc5vTuf3hMN988/jPfPPNf04mU3MUD4uBRmAdsByYTTrkgSGgFzgBvHGz+cS71JiWLA62iD1At7VPV6edwDlvwGPgHvApJdl8oBpYpQ11yt9txEuAU3KMAbuBiyXZ4x80AGeAMuA0cMeIm+TgP5EaLqjsEde+LJCT81kgqR3Je2DtP5C/kJ0z4mWq3A8YXKUkLAf2JyRGeWNYasSzVPkeMLDRs+uAhQmJx1WWZRMMqgC2eXXLj40JiQsGx6EGmAfcUrsl3gzZPwFb9BZlqUO5MtgS6DMwAdwAPoYSm4LdNoHRmfZ4YX4NPNDu60T2QW1XgdrIXKaCm6IEcaH+CnyRfQTYq1AjdbvsLXyD7PopSA3DUxHEEVuYDsheAByTbbJ3FugDvsm3VeVBlZPAamm9iVNzEmJ0dndlZ1R2SUbzEn630/XAGtUvAQPa6Ujc5MWIfynEE57vuGf74T4v25KuvcicQcRIzVplXwceeW1+uOeqvAY8LwWx4TCwCNgc8fvhRhFqCyF1xJOyZxbp905hjOKKV7dFPPwLn3vr80Y8qEp16GojZKbxb4GWgP6VKgezXrhWSnWSYFwLrgg8W3e0N83oAEblsMd6h3d9So2c9P2Q++farjvqCF/qCfuRkviJrqAlXgGcVpsWTwNOAnOAFfpKgadAf1zMDfYjZjJn18d+9tzbmQavtOtCAL8BHJt5ywPwwPMAAAAASUVORK5CYII="/>
+</svg>
